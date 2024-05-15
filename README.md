@@ -1,7 +1,7 @@
 # Hello, I am Yeisson Herrera!
 
 Mi nombre es Yeisson, tengo 22 años y actualmente estudio la universidad.
-Aun estoy en el proceso de aprender programacion, actualmente estoy aprendiendo Java y Frontend (HTML, CSS y Javascript).
+Aun estoy en el proceso de aprender programacion, actualmente estoy aprendiendo Java y Frontend.
 
 **Comandos de la Terminal que aprendi**
 
