@@ -1,7 +1,21 @@
-# Hello, I am Yeisson Herrera!
+<h1 align="center"><b> Hi , I'm Yeisson Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Mi nombre es Yeisson, tengo 22 años y actualmente estudio la universidad.
 
+## About Me :
+
+- 🏢 I am currently an Student
+- 🎓 Studies for Software Engineering 
+- 🏡 Lives in **México**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+
+##### 👨‍💻 Languages I use
+   
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+
+<!--
 **Comandos de la Terminal que aprendi**
 
 | Comando    | Descripcion                                          | 
@@ -13,7 +27,7 @@ Mi nombre es Yeisson, tengo 22 años y actualmente estudio la universidad.
 
 
 
-<!--
+
 **YUHR24/YUHR24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
