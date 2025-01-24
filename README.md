@@ -1,17 +1,13 @@
 <h1 align="center"><b> Hi , I'm Yeisson Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div>
-
-<img align="right" width="400" alt="Ludens" src="https://static.wikia.nocookie.net/deathstranding/images/7/73/Ludens.jpg/revision/latest?cb=20191014093328&path-prefix=de" />
-<!--<img align="right" width="400" alt="Ludens" src="https://images.squarespace-cdn.com/content/v1/55ef0e29e4b099e22cdc9eea/1463578929901-KA8SLV5ZRP03VN1VWTN6/image-asset.jpeg" /> -->
-
-
+<!--
 ## About Me :
-
 - 🏢 I am currently an Student
 - 🎓 Studies for Software Engineering 
 - 🏡 Lives in **México**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+-->
 
 ##### 👨‍💻 Languages I use
    
@@ -19,8 +15,10 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-</br></br>
+</div>
 
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUHR24&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 </div>
  
 <!--
