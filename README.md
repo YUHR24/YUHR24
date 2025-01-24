@@ -2,9 +2,6 @@
 <!--
 # 💫 About Me:
 ⚡ Hi i'm YUHR<br>🌱 I’m currently learning React<br>💬 Open to learn<br>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-
 -->
 
 # 💻 Languages I Use:
@@ -24,7 +21,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-
 
 
 
