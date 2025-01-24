@@ -1,49 +1,23 @@
 <h1 align="center"><b> Hi , I'm Yeisson Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div>
+# 💫 About Me:
+⚡ Hi i'm YUHR<br>🌱 I’m currently learning React<br>💬 Open to learn<br>
+
+
+# 💻 Languages I Use:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YUHR24&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YUHR24&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YUHR24&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
-## About Me :
-- 🏢 I am currently an Student
-- 🎓 Studies for Software Engineering 
-- 🏡 Lives in **México**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-##### 👨‍💻 Languages I use
-   
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YUHR24&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=YUHR24&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUHR24&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-</div>
- 
-<!--
-**Comandos de la Terminal que aprendi**
-
-| Comando    | Descripcion                                          | 
-|------------|------------------------------------------------------|
-|pwd         | Muestra la direcion actual en la que estas           |
-|ls          | Lista los archivos que hay en la carpeta actual      | 
-|cd          | Cambia a la direccion o carperta que desees          | 
-|mkdir       | Crea un nuevo archivo o carpeta                      | 
-
-
-
-
-**YUHR24/YUHR24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
