@@ -16,8 +16,8 @@ I enjoy designing scalable applications, developing REST APIs, creating responsi
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Java, Dart, JavaScript  
-- **Frameworks:** Spring Boot, Flutter, React, Thymeleaf  
+- **Languages:** Java, PHP, Dart, JavaScript  
+- **Frameworks:** Spring Boot, Flutter, React, Thymeleaf, Laravel  
 - **Database:** MySQL, PostrgreSQL  
 - **Version Control:** Git, GitHub  
 - **IDE / Tools:** VS Code, Eclipse, Postman  
