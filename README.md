@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer focused on building complete software solutio
 
 I enjoy designing scalable applications, developing REST APIs, creating responsive user interfaces, and integrating systems that solve real-world problems with clean and maintainable code.
 
-## 🚀 Currently Working On
+## 🚀 Working On
 
 - Strengthening full stack development through real-world projects
 - Building backend services with Java and Spring Boot
@@ -14,7 +14,7 @@ I enjoy designing scalable applications, developing REST APIs, creating responsi
 - Creating frontend interfaces with React and Thymeleaf
 - Improving deployment workflows and software architecture practices
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Tech
 
 - **Languages:** Java, PHP, Dart, JavaScript  
 - **Frameworks:** Spring Boot, Flutter, React, Thymeleaf, Laravel  
