@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I'm a Full Stack Software Engineer focused on building complete software solutions across backend, frontend, and mobile development.
+I'm a Full Stack Software Developer focused on building complete software solutions across backend, frontend, and mobile development.
 
 I enjoy designing scalable applications, developing REST APIs, creating responsive user interfaces, and integrating systems that solve real-world problems with clean and maintainable code.
 
